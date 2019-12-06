@@ -1,9 +1,10 @@
 # Shinsuke_todo
 
-学習用クローン版To-Do App
+学習用クローン版To-Do App</br>
 https://youtu.be/ovql0Ui3n_I
 
 https://github.com/ykdojo/editdojo
 
-・コメントを投稿できるTo-Do App
+</br>
+・コメントを投稿できるTo-Do App</br>
 ・個別に削除することができる。
