@@ -7,4 +7,4 @@ https://github.com/ykdojo/editdojo
 
 </br>
 ・コメントを投稿できるTo-Do App</br>
-・個別に削除することができる。
+・コメントを個別に削除することができる。
